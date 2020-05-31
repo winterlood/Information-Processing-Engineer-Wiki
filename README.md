@@ -4,8 +4,8 @@
 
 ## 1과목 - 소프트웨어 설계
  [chapter1. 요구사항 확인](./subject1/chapter1.md)  
- chapter1. 요구사항 확인  
- chapter1. 요구사항 확인  
+ [chapter2. 화면 설계](./subject1/chapter2.md)  
+ [chapter3. SW아키텍쳐](./subject1/chapter3.md)  
  chapter1. 요구사항 확인  
  chapter1. 요구사항 확인  
  chapter1. 요구사항 확인  
